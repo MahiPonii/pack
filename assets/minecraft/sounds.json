@@ -1,0 +1,10 @@
+{
+  "custom.abyss_death": {
+    "sounds": [
+      {
+        "name": "custom/abyss_death",
+        "stream": false
+      }
+    ]
+  }
+}
